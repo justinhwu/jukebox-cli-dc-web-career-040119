@@ -48,6 +48,6 @@ def run(songs)
   input = gets.chomp
   case input
   when "exit"
-    
+    exit_jukebox
   
 end
