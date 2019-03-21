@@ -48,6 +48,7 @@ def run(songs)
   input = gets.chomp
   while input != "exit"
     case input
-    
+    when "play"
+      play
   
 end
