@@ -49,6 +49,8 @@ def run(songs)
   while input != "exit"
     case input
     when "play"
-      play
+      play(songs)
+    when "help"
+      help
   
 end
