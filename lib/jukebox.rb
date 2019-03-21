@@ -60,6 +60,5 @@ def run(songs)
     else
       "Invalid Command"
     end
-    break
   end
 end
