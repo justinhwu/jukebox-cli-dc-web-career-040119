@@ -61,4 +61,5 @@ def run(songs)
       "Invalid Command"
     end
   end
+  break
 end
