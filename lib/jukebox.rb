@@ -54,6 +54,7 @@ def run(songs)
       help
     when "list"
       list(songs)
-    when ""
+    when "exit"
+      exit_jukebox
   
 end
