@@ -49,5 +49,6 @@ def run(songs)
   case input
   when "exit"
     exit_jukebox
+    break
   
 end
