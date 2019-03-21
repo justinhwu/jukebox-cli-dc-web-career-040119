@@ -37,3 +37,5 @@ def list(songs)
     puts("#{i+1}. #{a}")
   end
 end
+
+def exit_jukebox()
