@@ -52,5 +52,6 @@ def run(songs)
     break
   when "list"
     list(songs)
+    break
   
 end
