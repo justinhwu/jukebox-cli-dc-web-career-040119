@@ -33,9 +33,7 @@ def play(songs)
 end
 
 def list(songs)
-  array = []
   songs.each_with_index do |a,i|
     array<< ("#{i+1}. #{a[i]}")
   end
-  array
 end
